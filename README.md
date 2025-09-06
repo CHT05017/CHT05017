@@ -1,7 +1,7 @@
 # Interests:
 ## Computer vision 
-- Low-level vision (Super-resolution, Dehazing, etc.)
-- ······
+- Low-level vision (e.g., Super-resolution, deblurring, denoising)
+- High-level vision (e.g., person retrieval)
 
 # Contact:
 ## mails:
@@ -11,3 +11,4 @@
 ## others:
 - 18086731898 (Wechat)
 - 3045796320 (QQ)
+- 18086731898n (phone-call)
